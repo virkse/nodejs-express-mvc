@@ -1,0 +1,20 @@
+{
+  "name": "node-tutorial-application",
+  "version": "1.0.0",
+  "description": "Nodejs practices",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Asmat ullah virk",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.32.2",
+    "serve-favicon": "^2.4.5"
+  }
+}
